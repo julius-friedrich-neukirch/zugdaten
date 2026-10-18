@@ -1,1 +1,65 @@
+# GitHub Actions workflow: runs ktmb_logger.py in the cloud on a schedule
+# and saves the collected data into this repository.
+#
+# Put this file at:  .github/workflows/ktmb-logger.yml
+# Put the script at: ktmb_logger.py   (repository root)
 
+name: KTMB logger
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"     # every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+  workflow_dispatch:           # adds a "Run workflow" button for manual starts
+
+permissions:
+  contents: write              # needed to commit the data back to the repo
+
+concurrency:
+  group: ktmb-logger
+  cancel-in-progress: false    # never run two loggers at once; queue instead
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355       # GitHub's hard limit per job is 360
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests gtfs-realtime-bindings
+
+      - name: Record KTMB positions for ~5h40m
+        run: python ktmb_logger.py --static --interval 30 --duration 340 --out run_output
+
+      - name: Compress and save data
+        if: always()
+        run: |
+          RUN=$(date -u +%Y%m%dT%H%M)
+          mkdir -p data/positions data/static data/logs
+          for f in run_output/positions_*.csv; do
+            [ -f "$f" ] || continue
+            gzip -c "$f" > "data/positions/$(basename "$f" .csv)_run${RUN}.csv.gz"
+          done
+          for z in run_output/gtfs_static_*.zip; do
+            [ -f "$z" ] || continue
+            [ -f "data/static/$(basename "$z")" ] || cp "$z" data/static/
+          done
+          [ -f run_output/logger.log ] && cp run_output/logger.log "data/logs/log_${RUN}.txt"
+
+      - name: Commit data
+        if: always()
+        run: |
+          git config user.name  "ktmb-logger-bot"
+          git config user.email "ktmb-logger-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && { echo "Nothing new to commit"; exit 0; }
+          git commit -m "KTMB data $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase && git push && break
+            sleep 5
+          done
