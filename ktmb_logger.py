@@ -19,6 +19,7 @@ Run:
     python ktmb_logger.py --interval 60    # poll every 60 s
     python ktmb_logger.py --static         # also download today's GTFS Static timetable
     python ktmb_logger.py --once           # single poll, for testing
+    python ktmb_logger.py --duration 120   # run for 120 minutes, then stop
 
 Stop with Ctrl+C. Restarting is safe: duplicates are skipped.
 
@@ -176,6 +177,8 @@ def main():
     p.add_argument("--out", default="ktmb_data", help="output folder (default ./ktmb_data)")
     p.add_argument("--static", action="store_true", help="also download today's GTFS Static timetable")
     p.add_argument("--once", action="store_true", help="poll once and exit (for testing)")
+    p.add_argument("--duration", type=float, default=0,
+                   help="stop after this many minutes (default 0 = run until Ctrl+C)")
     p.add_argument("--url", default=REALTIME_URL, help=argparse.SUPPRESS)
     p.add_argument("--static-url", default=STATIC_URL, help=argparse.SUPPRESS)
     args = p.parse_args()
@@ -204,8 +207,9 @@ def main():
     last_feed_ts = None
     failures = 0
     logging.info("Logging KTMB positions every %ds into %s (Ctrl+C to stop)", args.interval, out_dir.resolve())
+    deadline = time.monotonic() + args.duration * 60 if args.duration > 0 else None
 
-    while _running:
+    while _running and (deadline is None or time.monotonic() < deadline):
         started = time.monotonic()
         try:
             r = session.get(args.url, timeout=20)
@@ -229,6 +233,8 @@ def main():
         wait = args.interval if failures == 0 else min(args.interval * 2 ** min(failures, 5), 600)
         wait -= time.monotonic() - started
         end = time.monotonic() + max(wait, 0)
+        if deadline is not None:
+            end = min(end, deadline)
         while _running and time.monotonic() < end:
             time.sleep(min(1, end - time.monotonic()))
 
