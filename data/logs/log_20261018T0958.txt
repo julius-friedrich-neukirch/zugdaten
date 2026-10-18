@@ -1,0 +1,683 @@
+2026-10-18 04:18:34,128 INFO Saved static timetable: gtfs_static_2026-10-18.zip (45 KB)
+2026-10-18 04:18:34,129 INFO Logging KTMB positions every 30s into /home/runner/work/zugdaten/zugdaten/run_output (Ctrl+C to stop)
+2026-10-18 04:18:36,531 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 04:19:06,172 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:19:38,089 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:20:05,184 INFO Feed unchanged since last poll, skipped
+2026-10-18 04:20:34,626 INFO 10 trains in feed, 10 new rows -> positions_2026-10-18.csv
+2026-10-18 04:21:04,596 INFO 9 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:21:34,623 INFO Feed unchanged since last poll, skipped
+2026-10-18 04:22:04,770 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 04:22:35,153 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:23:04,711 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:23:34,628 INFO Feed unchanged since last poll, skipped
+2026-10-18 04:24:04,609 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 04:24:35,273 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:25:04,628 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:25:34,622 INFO Feed unchanged since last poll, skipped
+2026-10-18 04:26:04,688 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 04:26:35,983 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:27:05,057 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:27:35,873 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:28:04,622 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 04:28:35,175 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:29:04,626 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:29:36,499 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:30:05,169 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 04:30:36,202 INFO 10 trains in feed, 4 new rows -> positions_2026-10-18.csv
+2026-10-18 04:31:04,683 INFO 10 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:31:34,606 INFO Feed unchanged since last poll, skipped
+2026-10-18 04:32:04,820 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 04:32:34,607 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:33:04,847 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:33:34,614 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:34:04,964 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 04:34:34,757 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:35:05,260 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:35:35,240 INFO Feed unchanged since last poll, skipped
+2026-10-18 04:36:04,637 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 04:36:35,092 INFO 7 trains in feed, 1 new rows -> positions_2026-10-18.csv
+2026-10-18 04:37:04,766 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:37:36,011 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:38:04,603 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 04:38:34,632 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:39:04,632 INFO 11 trains in feed, 5 new rows -> positions_2026-10-18.csv
+2026-10-18 04:39:34,617 INFO 5 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:40:04,850 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 04:40:34,600 INFO Feed unchanged since last poll, skipped
+2026-10-18 04:41:04,783 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:41:34,633 INFO Feed unchanged since last poll, skipped
+2026-10-18 04:42:05,447 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 04:42:35,950 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:43:04,852 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:43:36,246 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:44:04,613 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 04:44:34,600 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:45:04,853 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:45:36,425 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:46:04,592 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 04:46:34,621 INFO Feed unchanged since last poll, skipped
+2026-10-18 04:47:05,025 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:47:34,649 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:48:05,783 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 04:48:34,613 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:49:04,701 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:49:35,201 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:50:05,165 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 04:50:34,749 INFO Feed unchanged since last poll, skipped
+2026-10-18 04:51:04,645 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:51:36,228 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:52:04,844 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 04:52:35,182 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:53:04,638 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:53:35,434 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:54:04,628 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 04:54:35,807 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:55:04,918 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:55:36,252 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:56:05,718 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:56:34,812 INFO Feed unchanged since last poll, skipped
+2026-10-18 04:57:05,911 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 04:57:34,629 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:58:04,714 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 04:58:34,601 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:59:04,608 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 04:59:34,622 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:00:09,480 INFO 2 trains in feed, 2 new rows -> positions_2026-10-18.csv
+2026-10-18 05:00:34,622 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:01:04,632 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 05:01:34,659 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:02:06,404 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:02:37,752 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 05:03:08,304 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:03:37,069 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:04:06,828 INFO 3 trains in feed, 3 new rows -> positions_2026-10-18.csv
+2026-10-18 05:04:37,624 INFO 11 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 05:05:04,989 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:05:34,603 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:06:04,629 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:06:35,280 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 05:07:05,804 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:07:36,457 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:08:04,826 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:08:35,759 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 05:09:06,272 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:09:36,837 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:10:07,440 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:10:36,428 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:11:04,640 INFO 11 trains in feed, 11 new rows -> positions_2026-10-18.csv
+2026-10-18 05:11:36,223 INFO 3 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:12:04,628 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:12:34,615 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:13:05,303 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 05:13:36,460 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:14:04,934 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:14:34,639 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:15:06,064 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 05:15:35,439 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:16:04,723 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:16:34,753 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 05:17:04,952 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:17:34,632 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:18:04,688 INFO 3 trains in feed, 3 new rows -> positions_2026-10-18.csv
+2026-10-18 05:18:34,646 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:19:04,614 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 05:19:34,660 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:20:04,628 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:20:36,084 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 05:21:04,645 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:21:34,798 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:22:04,737 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:22:34,633 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:23:04,858 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 05:23:36,697 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:24:05,780 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:24:35,361 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 05:25:05,270 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:25:34,666 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:26:04,665 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:26:34,617 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:27:04,685 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 05:27:34,747 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:28:04,932 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:28:34,832 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:29:04,758 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 05:29:34,736 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:30:07,146 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:30:34,646 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:31:05,634 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 05:31:34,674 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:32:04,626 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:32:34,711 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 05:33:04,625 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:33:34,926 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:34:04,656 INFO 1 trains in feed, 1 new rows -> positions_2026-10-18.csv
+2026-10-18 05:34:35,226 INFO 8 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 05:35:04,621 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:35:34,617 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:36:04,718 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:36:35,139 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 05:37:05,564 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:37:34,735 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:38:05,211 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:38:34,776 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:39:04,643 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 05:39:34,623 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:40:04,661 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:40:35,211 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 05:41:04,633 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:41:34,666 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:42:05,011 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:42:35,151 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:43:05,035 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 05:43:36,028 INFO 7 trains in feed, 1 new rows -> positions_2026-10-18.csv
+2026-10-18 05:44:04,638 INFO 1 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:44:34,904 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:45:04,778 INFO 12 trains in feed, 12 new rows -> positions_2026-10-18.csv
+2026-10-18 05:45:35,808 INFO 12 trains in feed, 2 new rows -> positions_2026-10-18.csv
+2026-10-18 05:46:05,166 INFO 2 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:46:35,828 INFO 8 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 05:47:05,460 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:47:34,628 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:48:04,647 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:48:35,038 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 05:49:04,640 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:49:35,031 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:50:06,160 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:50:36,834 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 05:51:05,641 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:51:36,844 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:52:04,821 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:52:34,767 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 05:53:05,323 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:53:34,906 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:54:04,671 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:54:35,064 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 05:55:04,649 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:55:34,655 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:56:04,652 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:56:35,060 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 05:57:05,069 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:57:35,276 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:58:04,729 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 05:58:34,620 INFO Feed unchanged since last poll, skipped
+2026-10-18 05:59:04,649 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 05:59:34,789 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:00:07,656 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:00:35,521 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:01:04,791 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:01:36,954 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:02:05,047 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:02:34,626 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:03:05,107 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:03:34,694 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:04:04,746 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:04:34,840 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:05:04,626 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:05:34,643 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:06:04,633 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:06:35,104 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:07:04,755 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:07:35,234 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:08:04,659 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:08:34,633 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:09:04,620 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:09:34,630 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:10:04,632 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:10:35,399 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:11:04,620 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:11:34,826 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:12:04,867 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:12:34,740 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:13:04,671 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:13:34,639 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:14:05,114 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:14:34,705 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:15:06,795 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:15:36,300 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:16:04,806 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:16:34,654 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:17:04,635 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:17:34,642 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:18:04,630 INFO 4 trains in feed, 4 new rows -> positions_2026-10-18.csv
+2026-10-18 06:18:34,649 INFO 10 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:19:05,319 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:19:35,142 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:20:04,901 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:20:35,575 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:21:05,352 INFO 9 trains in feed, 9 new rows -> positions_2026-10-18.csv
+2026-10-18 06:21:35,175 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:22:06,797 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:22:34,969 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:23:04,625 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:23:34,671 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:24:04,638 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:24:34,639 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:25:04,647 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:25:34,948 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:26:05,043 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:26:35,763 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:27:04,651 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:27:34,636 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:28:04,873 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:28:35,741 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:29:04,771 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:29:36,156 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:30:05,860 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:30:34,850 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:31:04,804 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:31:35,323 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:32:04,631 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:32:34,811 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:33:05,129 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:33:37,170 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:34:05,312 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:34:37,101 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:35:05,557 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:35:34,992 INFO 9 trains in feed, 3 new rows -> positions_2026-10-18.csv
+2026-10-18 06:36:04,908 INFO 2 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:36:34,656 INFO 1 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:37:04,648 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 06:37:34,620 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:38:04,777 INFO 1 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:38:34,667 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:39:04,653 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:39:34,680 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:40:04,733 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:40:35,554 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:41:05,644 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:41:36,334 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:42:04,952 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:42:34,778 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:43:04,921 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:43:34,880 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:44:04,671 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:44:34,667 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:45:04,669 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:45:34,736 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:46:04,640 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:46:34,649 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:47:04,700 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:47:35,754 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:48:04,738 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:48:35,029 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:49:04,667 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:49:35,123 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:50:04,873 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:50:36,175 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:51:04,632 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:51:34,654 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:52:04,643 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:52:34,682 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:53:04,619 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:53:34,657 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:54:04,755 INFO 8 trains in feed, 2 new rows -> positions_2026-10-18.csv
+2026-10-18 06:54:35,946 INFO 2 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:55:04,913 INFO 8 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:55:35,174 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:56:05,442 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:56:35,825 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:57:05,318 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:57:35,062 INFO Feed unchanged since last poll, skipped
+2026-10-18 06:58:04,654 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:58:34,768 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 06:59:04,641 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 06:59:34,631 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:00:09,099 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:00:34,658 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:01:05,080 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:01:34,857 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:02:04,726 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:02:35,185 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:03:04,660 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:03:34,698 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:04:04,644 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:04:34,763 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:05:04,668 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:05:34,643 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:06:05,033 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:06:35,751 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:07:04,948 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:07:34,938 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:08:04,853 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:08:34,656 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:09:04,648 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:09:35,097 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:10:05,858 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:10:36,589 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:11:04,638 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:11:35,813 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:12:04,725 INFO 12 trains in feed, 5 new rows -> positions_2026-10-18.csv
+2026-10-18 07:12:35,125 INFO 5 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:13:04,635 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:13:35,251 INFO 10 trains in feed, 3 new rows -> positions_2026-10-18.csv
+2026-10-18 07:14:04,659 INFO 10 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:14:34,643 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:15:06,396 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:15:34,737 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:16:05,297 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:16:35,607 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:17:05,251 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 07:17:35,927 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:18:06,630 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:18:39,422 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:19:07,669 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 07:19:36,677 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:20:05,955 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:20:34,663 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:21:04,755 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 07:21:34,633 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:22:04,654 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:22:34,950 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:23:07,164 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 07:23:36,037 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:24:07,800 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:24:37,579 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:25:07,962 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 07:25:37,166 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:26:05,256 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:26:34,959 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:27:05,466 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 07:27:34,631 INFO 9 trains in feed, 1 new rows -> positions_2026-10-18.csv
+2026-10-18 07:28:04,673 INFO 9 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:28:34,668 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:29:07,546 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:29:34,809 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:30:05,261 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:30:35,685 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:31:05,508 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:31:34,963 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:32:04,967 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:32:34,653 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:33:04,657 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:33:34,666 INFO 8 trains in feed, 1 new rows -> positions_2026-10-18.csv
+2026-10-18 07:34:05,283 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:34:34,650 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:35:04,634 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:35:34,639 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:36:04,701 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:36:35,480 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:37:04,645 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:37:35,239 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:38:04,633 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:38:35,124 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:39:04,637 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:39:34,634 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:40:05,322 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:40:34,730 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:41:04,629 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:41:34,729 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:42:04,667 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:42:34,756 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:43:04,661 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:43:34,647 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:44:04,635 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:44:35,742 INFO 4 trains in feed, 4 new rows -> positions_2026-10-18.csv
+2026-10-18 07:45:05,222 INFO 11 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:45:35,525 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:46:05,331 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:46:35,571 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:47:04,681 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:47:34,636 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:48:04,693 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:48:36,247 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:49:04,856 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:49:35,193 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:50:05,118 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:50:34,670 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:51:04,634 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:51:35,350 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:52:05,096 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:52:34,868 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:53:04,657 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:53:34,644 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:54:04,642 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:54:35,347 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:55:04,658 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:55:34,679 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:56:04,697 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:56:34,666 INFO Feed unchanged since last poll, skipped
+2026-10-18 07:57:04,816 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:57:34,746 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 07:58:04,792 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:58:35,388 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:59:05,469 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 07:59:35,426 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:00:05,640 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:00:34,737 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:01:04,675 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:01:34,659 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:02:04,714 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:02:34,683 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:03:04,838 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:03:35,101 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:04:04,639 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:04:35,446 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:05:04,639 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:05:34,630 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:06:05,230 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:06:34,920 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:07:04,675 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:07:34,997 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:08:04,671 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:08:34,647 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:09:04,644 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:09:34,863 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:10:05,073 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:10:34,899 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:11:05,324 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:11:35,201 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 08:12:07,495 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:12:34,956 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:13:05,163 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:13:35,801 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:14:04,659 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:14:34,637 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:15:05,033 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:15:34,725 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:16:05,099 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:16:34,652 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:17:04,679 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:17:34,648 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:18:05,175 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:18:35,414 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:19:04,636 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:19:35,280 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:20:05,049 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:20:34,913 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:21:04,879 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:21:34,667 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:22:04,652 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 08:22:34,637 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:23:05,139 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:23:35,176 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 08:24:04,921 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:24:34,647 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:25:04,660 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:25:34,638 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:26:04,823 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:26:35,243 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:27:06,201 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:27:34,650 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:28:05,150 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:28:34,643 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:29:04,979 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:29:34,648 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:30:04,683 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:30:34,644 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:31:04,627 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:31:34,655 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:32:04,681 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:32:34,728 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:33:04,821 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:33:34,851 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:34:04,748 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:34:34,651 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:35:04,660 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:35:34,636 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:36:04,639 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:36:34,706 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:37:05,758 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:37:34,925 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:38:04,653 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:38:34,650 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:39:04,634 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:39:34,644 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:40:05,059 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:40:35,497 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:41:05,443 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:41:34,652 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:42:04,669 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:42:34,631 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:43:04,672 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:43:34,660 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:44:04,643 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:44:34,868 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:45:06,134 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:45:34,660 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:46:04,651 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:46:35,049 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:47:04,850 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:47:35,932 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:48:05,596 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:48:35,619 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:49:04,637 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:49:34,734 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:50:04,681 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:50:34,660 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:51:05,062 INFO 1 trains in feed, 1 new rows -> positions_2026-10-18.csv
+2026-10-18 08:51:35,124 INFO 8 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:52:04,895 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:52:34,641 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:53:04,699 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:53:36,938 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:54:06,530 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:54:37,952 INFO 11 trains in feed, 4 new rows -> positions_2026-10-18.csv
+2026-10-18 08:55:07,307 INFO 4 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:55:36,017 INFO 8 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:56:04,675 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:56:34,770 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:57:04,674 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:57:34,649 INFO Feed unchanged since last poll, skipped
+2026-10-18 08:58:04,989 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 08:58:35,020 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:59:04,682 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 08:59:34,736 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:00:06,529 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:00:35,094 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:01:05,023 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:01:34,714 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:02:05,451 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:02:34,975 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:03:05,143 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:03:34,856 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:04:04,650 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:04:34,664 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:05:05,055 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:05:36,017 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:06:04,981 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:06:34,643 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:07:04,852 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:07:35,388 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:08:05,245 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:08:35,903 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:09:05,344 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:09:35,360 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:10:05,477 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:10:36,088 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:11:05,873 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:11:34,946 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:12:22,840 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:12:34,823 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:13:04,946 INFO 1 trains in feed, 1 new rows -> positions_2026-10-18.csv
+2026-10-18 09:13:34,964 INFO 1 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:14:04,950 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:14:35,230 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:15:08,851 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:15:37,363 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:16:08,919 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:16:37,573 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:17:04,880 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:17:35,924 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:18:05,319 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:18:35,434 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:19:04,704 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:19:34,713 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:20:05,783 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 09:20:34,839 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:21:04,678 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:21:35,234 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:22:04,705 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 09:22:36,752 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:23:05,972 INFO 5 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:23:35,698 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:24:06,942 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 09:24:38,651 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:25:07,986 INFO 1 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:25:36,101 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:26:04,764 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 09:26:34,790 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:27:04,657 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:27:34,663 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:28:04,652 INFO 9 trains in feed, 9 new rows -> positions_2026-10-18.csv
+2026-10-18 09:28:37,080 INFO 12 trains in feed, 4 new rows -> positions_2026-10-18.csv
+2026-10-18 09:29:06,549 INFO 11 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:29:37,423 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:30:06,887 INFO 6 trains in feed, 6 new rows -> positions_2026-10-18.csv
+2026-10-18 09:30:35,854 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:31:04,654 INFO 6 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:31:36,138 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:32:04,656 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:32:34,718 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:33:04,649 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:33:35,753 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:34:06,085 INFO 7 trains in feed, 7 new rows -> positions_2026-10-18.csv
+2026-10-18 09:34:34,882 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:35:04,664 INFO 7 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:35:36,005 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:36:04,738 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:36:34,661 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:37:04,645 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:37:34,736 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:38:04,657 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:38:34,649 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:39:04,691 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:39:35,547 INFO 1 trains in feed, 1 new rows -> positions_2026-10-18.csv
+2026-10-18 09:40:04,642 INFO 9 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:40:35,280 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:41:04,654 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:41:35,215 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:42:04,680 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:42:34,802 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:43:04,970 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:43:35,214 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:44:04,660 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:44:34,652 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:45:04,716 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:45:34,667 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:46:05,282 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:46:35,019 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:47:05,622 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:47:35,289 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:48:04,647 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:48:34,670 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:49:04,643 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:49:36,296 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:50:05,924 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:50:36,451 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:51:04,665 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:51:34,830 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:52:04,737 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:52:34,645 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:53:04,661 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:53:34,697 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:54:04,824 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:54:34,862 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:55:05,157 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:55:34,659 INFO Feed unchanged since last poll, skipped
+2026-10-18 09:56:04,660 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:56:35,434 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:57:05,707 INFO 8 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:57:38,178 INFO 0 trains in feed, 0 new rows -> positions_2026-10-18.csv
+2026-10-18 09:58:06,361 INFO 8 trains in feed, 8 new rows -> positions_2026-10-18.csv
+2026-10-18 09:58:34,129 INFO Stopped.
