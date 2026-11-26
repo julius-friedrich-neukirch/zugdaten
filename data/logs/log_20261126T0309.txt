@@ -1,0 +1,670 @@
+2026-11-25 21:29:03,946 INFO Saved static timetable: gtfs_static_2026-11-26.zip (45 KB)
+2026-11-25 21:29:03,947 INFO Logging KTMB positions every 30s into /home/runner/work/zugdaten/zugdaten/run_output (Ctrl+C to stop)
+2026-11-25 21:29:04,321 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:29:34,342 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:30:05,755 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:30:34,394 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:31:04,319 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:31:34,353 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:32:04,346 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:32:34,309 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:33:04,442 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:33:34,311 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:34:04,359 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:34:34,358 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:35:04,334 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:35:34,328 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:36:04,336 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:36:34,335 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:37:04,378 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:37:34,322 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:38:04,336 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:38:34,329 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:39:04,326 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:39:34,461 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:40:04,567 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:40:35,160 INFO Feed unchanged since last poll, skipped
+2026-11-25 21:41:05,029 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:41:34,329 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:42:04,347 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:42:34,371 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:43:04,840 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:43:34,517 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:44:04,328 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:44:34,328 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:45:04,487 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:45:34,330 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:46:04,348 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:46:34,314 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:47:04,358 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:47:34,351 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:48:04,620 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:48:34,340 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:49:04,343 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:49:34,337 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:50:04,357 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:50:34,334 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:51:04,349 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:51:34,339 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:52:04,331 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:52:34,376 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:53:04,738 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:53:34,334 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:54:04,319 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:54:34,446 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:55:04,334 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:55:34,334 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:56:04,884 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:56:34,542 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:57:04,372 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:57:34,346 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:58:04,377 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:58:34,916 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:59:04,335 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 21:59:34,324 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:00:14,764 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:00:34,371 INFO Feed unchanged since last poll, skipped
+2026-11-25 22:01:05,346 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:01:55,086 ERROR Poll failed (1 in a row): HTTPSConnectionPool(host='api.data.gov.my', port=443): Read timed out. (read timeout=20)
+2026-11-25 22:02:34,714 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:03:04,932 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:03:34,329 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:04:04,343 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:04:34,325 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:05:04,370 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:05:35,198 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:06:05,580 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:06:34,612 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:07:04,355 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:07:34,339 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:08:04,350 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:08:34,610 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:09:04,334 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:09:34,350 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:10:04,397 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:10:34,387 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:11:04,507 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:11:34,358 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:12:04,354 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:12:34,319 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:13:04,354 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:13:34,360 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:14:04,365 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:14:34,334 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:15:04,380 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:15:34,495 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:16:04,348 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:16:34,350 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:17:04,322 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:17:34,335 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:18:04,361 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:18:34,321 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:19:04,341 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:19:34,330 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:20:05,442 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:20:34,688 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:21:04,386 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:21:34,368 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:22:04,500 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:22:34,363 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:23:04,399 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:23:34,337 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:24:04,365 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:24:34,359 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:25:04,360 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:25:35,218 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:26:04,346 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:26:35,166 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:27:05,240 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:27:34,360 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:28:05,209 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:28:34,340 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:29:04,363 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:29:34,364 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:30:05,369 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:30:35,205 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:31:04,347 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:31:34,357 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:32:04,419 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:32:34,353 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:33:04,372 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:33:34,353 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:34:04,327 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:34:34,366 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:35:04,344 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:35:34,375 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:36:04,394 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:36:34,356 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:37:04,571 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:37:34,340 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:38:04,366 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:38:34,356 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:39:04,344 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:39:34,346 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:40:04,474 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:40:34,534 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:41:04,374 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:41:34,763 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:42:04,351 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:42:34,400 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:43:04,392 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:43:34,595 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:44:04,356 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:44:35,268 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:45:04,596 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:45:34,383 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:46:04,350 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:46:34,358 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:47:04,364 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:47:34,668 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:48:04,351 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:48:34,338 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:49:04,393 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:49:34,376 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:50:04,388 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:50:34,364 INFO Feed unchanged since last poll, skipped
+2026-11-25 22:51:04,369 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:51:34,621 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:52:04,408 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:52:34,341 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:53:04,340 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:53:34,336 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:54:04,372 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:54:34,357 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:55:04,378 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:55:34,368 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:56:04,377 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:56:34,342 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:57:04,333 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:57:34,366 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:58:04,359 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:58:34,362 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:59:04,350 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 22:59:34,396 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:00:11,299 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:00:34,334 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:01:04,336 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:01:34,775 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:02:04,358 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:02:34,352 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:03:04,379 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:03:34,667 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:04:04,378 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:04:34,349 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:05:04,434 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:05:36,022 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:06:05,639 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:06:34,819 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:07:04,379 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:07:34,359 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:08:04,386 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:08:34,367 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:09:04,948 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:09:34,502 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:10:04,404 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:10:34,357 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:11:04,355 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:11:34,390 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:12:04,431 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:12:34,635 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:13:04,361 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:13:34,363 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:14:04,344 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:14:34,524 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:15:04,365 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:15:34,345 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:16:23,995 ERROR Poll failed (1 in a row): HTTPSConnectionPool(host='api.data.gov.my', port=443): Read timed out. (read timeout=20)
+2026-11-25 23:17:19,660 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:17:34,369 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:18:08,652 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:18:34,361 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:19:04,368 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:19:34,637 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:20:12,600 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:20:34,349 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:21:09,084 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:21:34,383 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:22:20,197 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:22:34,874 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:23:18,077 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:23:34,352 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:24:04,779 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:24:35,077 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:25:19,180 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:25:35,141 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:26:19,675 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:26:34,385 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:27:18,375 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:27:34,370 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:28:20,454 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:28:34,338 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:29:18,317 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:29:34,628 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:30:05,940 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:30:37,504 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:31:18,770 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:31:36,033 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:32:18,771 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:32:35,395 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:33:04,397 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:33:34,363 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:34:19,673 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:34:34,370 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:35:19,532 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:35:34,342 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:36:18,738 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:36:34,657 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:37:18,584 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:37:34,386 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:38:23,376 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:38:34,456 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:39:11,723 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:39:34,370 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:40:20,546 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:40:34,376 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:41:20,612 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:41:34,367 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:42:04,361 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:42:34,374 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:43:19,219 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:43:34,373 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:44:19,570 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:44:34,572 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:45:27,502 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:45:34,420 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:46:19,059 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:46:34,349 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:47:18,949 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:47:34,408 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:48:21,163 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:48:34,355 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:49:22,777 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:49:34,638 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:50:20,493 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:50:34,537 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:51:17,980 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:51:34,408 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:52:18,885 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:52:34,368 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:53:18,545 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:53:34,362 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:54:22,447 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:54:37,128 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:55:11,842 INFO 1 trains in feed, 1 new rows -> positions_2026-11-26.csv
+2026-11-25 23:55:36,552 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:56:21,547 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:56:35,105 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:57:24,682 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-25 23:57:34,364 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:58:21,420 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-25 23:58:34,489 INFO Feed unchanged since last poll, skipped
+2026-11-25 23:59:22,109 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-25 23:59:34,355 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:00:29,299 ERROR Poll failed (1 in a row): HTTPSConnectionPool(host='api.data.gov.my', port=443): Read timed out. (read timeout=20)
+2026-11-26 00:01:26,228 ERROR Poll failed (2 in a row): HTTPSConnectionPool(host='api.data.gov.my', port=443): Read timed out. (read timeout=20)
+2026-11-26 00:03:20,331 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:03:34,390 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:04:23,378 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:04:34,389 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:05:11,386 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:05:34,396 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:06:23,993 ERROR Poll failed (1 in a row): HTTPSConnectionPool(host='api.data.gov.my', port=443): Read timed out. (read timeout=20)
+2026-11-26 00:07:04,799 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:07:34,442 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:08:24,208 ERROR Poll failed (1 in a row): HTTPSConnectionPool(host='api.data.gov.my', port=443): Read timed out. (read timeout=20)
+2026-11-26 00:09:04,412 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:09:34,380 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:10:20,877 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:10:34,362 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:11:04,401 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:11:34,656 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:12:18,362 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:12:34,364 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:13:21,399 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:13:34,400 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:14:24,009 ERROR Poll failed (1 in a row): HTTPSConnectionPool(host='api.data.gov.my', port=443): Read timed out. (read timeout=20)
+2026-11-26 00:15:15,190 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:15:34,379 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:16:18,954 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:16:34,828 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:17:18,548 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:17:34,367 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:18:18,654 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:18:36,032 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:19:08,508 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:19:34,378 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:20:22,296 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:20:35,331 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:21:14,263 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:21:35,179 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:22:25,776 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:22:34,813 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:23:24,011 ERROR Poll failed (1 in a row): HTTPSConnectionPool(host='api.data.gov.my', port=443): Read timed out. (read timeout=20)
+2026-11-26 00:24:24,453 ERROR Poll failed (2 in a row): HTTPSConnectionPool(host='api.data.gov.my', port=443): Read timed out. (read timeout=20)
+2026-11-26 00:26:04,410 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:26:34,426 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:27:04,372 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:27:34,378 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:28:04,422 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:28:34,401 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:29:04,405 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:29:34,363 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:30:07,714 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:30:36,025 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:31:05,759 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:31:34,379 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:32:04,368 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:32:34,384 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:33:04,378 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:33:34,404 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:34:04,380 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:34:34,616 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:35:04,458 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:35:34,401 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:36:04,786 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:36:34,498 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:37:04,385 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:37:34,382 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:38:04,389 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:38:34,405 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:39:04,367 INFO 2 trains in feed, 2 new rows -> positions_2026-11-26.csv
+2026-11-26 00:39:34,505 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:40:04,867 INFO 2 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:40:34,406 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:41:05,242 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 00:41:34,379 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:42:07,072 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:42:36,579 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:43:04,367 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 00:43:34,393 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:44:04,425 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:44:35,017 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:45:06,139 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 00:45:34,411 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:46:04,398 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:46:34,631 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:47:04,390 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 00:47:34,404 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:48:04,410 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:48:34,597 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:49:04,370 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 00:49:35,085 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:50:04,380 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:50:34,875 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:51:04,382 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:51:34,404 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 00:52:04,406 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:52:34,394 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:53:04,411 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:53:34,407 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 00:54:04,394 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:54:34,450 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:55:04,368 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:55:34,487 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 00:56:04,468 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:56:34,366 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:57:04,619 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:57:34,400 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 00:58:04,976 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:58:34,409 INFO Feed unchanged since last poll, skipped
+2026-11-26 00:59:04,374 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 00:59:34,375 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:00:12,043 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:00:34,380 INFO Feed unchanged since last poll, skipped
+2026-11-26 01:01:04,393 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:01:34,409 INFO Feed unchanged since last poll, skipped
+2026-11-26 01:02:04,417 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:02:34,407 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:03:04,466 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:03:35,041 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:04:04,372 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:04:34,807 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:05:04,911 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:05:34,403 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:06:04,408 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:06:34,641 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:07:04,394 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:07:34,483 INFO Feed unchanged since last poll, skipped
+2026-11-26 01:08:04,431 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:08:34,454 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:09:04,535 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:09:34,403 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:10:09,153 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:10:35,515 INFO Feed unchanged since last poll, skipped
+2026-11-26 01:11:04,380 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:11:34,426 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:12:04,484 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:12:34,396 INFO Feed unchanged since last poll, skipped
+2026-11-26 01:13:04,389 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:13:34,393 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:14:04,559 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:14:34,396 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:15:06,859 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:15:34,557 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:16:04,897 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:16:34,432 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:17:04,413 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:17:34,414 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:18:04,576 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:18:34,692 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:19:04,391 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:19:34,374 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:20:04,965 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:20:34,403 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:21:04,404 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:21:34,408 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:22:04,427 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:22:34,567 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:23:04,402 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:23:34,412 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:24:04,396 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:24:34,413 INFO Feed unchanged since last poll, skipped
+2026-11-26 01:25:04,630 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:25:35,340 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:26:11,438 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:26:34,435 INFO Feed unchanged since last poll, skipped
+2026-11-26 01:27:04,524 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:27:34,390 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:28:04,384 INFO 1 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:28:34,622 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:29:05,492 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:29:34,556 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:30:06,487 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:30:36,251 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:31:05,703 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:31:34,399 INFO Feed unchanged since last poll, skipped
+2026-11-26 01:32:04,414 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:32:34,411 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:33:04,462 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:33:34,392 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:34:04,401 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:34:36,260 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:35:07,131 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:35:35,419 INFO Feed unchanged since last poll, skipped
+2026-11-26 01:36:06,170 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:36:34,414 INFO Feed unchanged since last poll, skipped
+2026-11-26 01:37:04,438 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:37:34,566 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:38:04,388 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:38:34,390 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:39:04,406 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:39:34,381 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:40:05,007 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:40:34,408 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:41:04,404 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:41:34,407 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:42:04,415 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:42:34,392 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:43:04,719 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:43:34,788 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:44:04,383 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:44:34,664 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:45:04,444 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:45:34,404 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:46:04,400 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:46:34,444 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:47:05,226 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:47:34,518 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:48:06,263 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:48:34,396 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:49:04,446 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:49:34,621 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:50:05,204 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:50:34,382 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:51:04,924 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:51:34,564 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:52:04,401 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:52:34,460 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:53:04,411 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:53:34,411 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:54:07,965 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:54:37,063 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:55:06,818 INFO 3 trains in feed, 3 new rows -> positions_2026-11-26.csv
+2026-11-26 01:55:34,391 INFO Feed unchanged since last poll, skipped
+2026-11-26 01:56:07,903 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:56:37,354 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:57:04,392 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 01:57:34,403 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:58:04,451 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:58:34,390 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 01:59:04,449 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 01:59:34,677 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:00:14,114 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:00:35,747 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:01:04,397 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:01:34,419 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:02:04,406 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:02:34,431 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:03:04,415 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:03:34,392 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:04:04,516 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:04:34,435 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:05:04,403 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:05:34,415 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:06:04,646 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:06:34,420 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:07:04,537 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:07:34,420 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:08:04,416 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:08:34,553 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:09:04,420 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:09:35,223 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:10:05,055 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:10:34,452 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:11:04,864 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:11:34,426 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:12:04,940 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:12:34,391 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:13:04,404 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:13:34,457 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:14:05,694 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:14:35,305 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:15:05,270 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:15:35,485 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:16:04,934 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:16:34,700 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:17:04,418 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:17:34,419 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:18:04,423 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:18:34,413 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:19:04,776 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:19:35,477 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:20:09,061 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:20:34,952 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:21:04,414 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:21:34,414 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:22:04,495 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:22:34,400 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:23:04,849 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:23:34,532 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:24:04,385 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:24:34,410 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:25:04,490 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:25:34,400 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:26:05,001 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:26:34,433 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:27:04,431 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:27:34,397 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:28:04,416 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:28:34,422 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:29:04,431 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:29:34,430 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:30:06,890 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:30:34,403 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:31:04,402 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:31:34,392 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:32:04,515 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:32:34,776 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:33:04,437 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:33:34,433 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:34:04,434 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:34:34,582 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:35:04,521 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:35:34,443 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:36:04,756 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:36:34,613 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:37:04,449 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:37:34,460 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:38:04,410 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:38:34,447 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:39:04,456 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:39:34,572 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:40:05,799 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:40:34,413 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:41:04,424 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:41:34,516 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:42:04,432 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:42:34,599 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:43:05,621 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:43:34,710 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:44:08,580 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:44:35,670 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:45:04,427 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:45:34,417 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:46:04,450 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:46:34,943 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:47:04,463 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:47:34,408 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:48:04,891 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:48:34,945 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:49:04,842 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:49:34,413 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:50:04,513 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:50:34,433 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:51:04,442 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:51:34,439 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:52:04,420 INFO 3 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:52:34,460 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:53:04,437 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:53:34,417 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:54:04,436 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:54:34,562 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:55:04,438 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:55:34,418 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:56:04,647 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:56:34,434 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:57:04,407 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:57:34,421 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:58:04,433 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 02:58:34,484 INFO Feed unchanged since last poll, skipped
+2026-11-26 02:59:04,459 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 02:59:34,438 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:00:13,537 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:00:34,897 INFO Feed unchanged since last poll, skipped
+2026-11-26 03:01:06,018 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 03:01:34,686 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:02:04,405 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:02:34,519 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:03:04,446 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 03:03:34,418 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:04:04,411 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:04:35,450 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:05:04,587 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 03:05:34,411 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:06:05,822 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:06:35,348 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:07:04,502 INFO 4 trains in feed, 4 new rows -> positions_2026-11-26.csv
+2026-11-26 03:07:34,431 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:08:04,451 INFO 4 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:08:34,417 INFO 0 trains in feed, 0 new rows -> positions_2026-11-26.csv
+2026-11-26 03:09:03,947 INFO Stopped.
